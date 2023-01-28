@@ -17,26 +17,13 @@
 | 3.3 | [Estimating vehicle price]() | Develop a model for estimating the average market value of a car based on its description | pandas, numpy, sklearn, lightgbm, hyperopt, optuna, shap, matplotlib, seaborn, pickle, timeit, tqdm
 | 3.4 | [SQL Practice]() | Connect to the StackOverflow database, write 10 SQL queries and answer the given questions. |  pandas, matplotlib, seaborn, sqlalchemy
 | 3.5 | [Star temperature prediction]() | Based on indirect data, build a model for estimating the temperature at the surface of the star | pandas, numpy, torch, skorch, sklearn, matplotlib, seaborn, random, re, math
-| -   | []()                                    | 3           |  
-| -   | []()                                         | 3           |
-| -   | []()                                        | 3           |  
+| 3.6 | [Road accident risk assessment for the selected traffic route]() | Based on historical data, identify the causes of accidents and develop a model to assess the risk of accidents along the selected route | pandas, numpy, sklearn, catboost, scipy, sqlalchemy, matplotlib, seaborn random, math
+| 4.1 | [Cab demand prediction]() | Develop a model to predict the number of cab orders for the next hour | pandas, numpy, statsmodels, sklearn, catboost, matplotlib, seaborn
+| 4.2 | [Toxic comments classification]() | Build a model capable of classifying comments into positive and negative |  pandas, numpy, transformers, torch, catboost, optuna, sklearn, matplotlib, pickle, math, tqdm, random
+| 4.3 | [Age determination based on a photo]()| Build a model that determines the approximate age of a person based on a photo | pandas, numpy, tensorflow, matplotlib
+| 4.4 | [Image search by text query]() | Develop a model for searching images by text query | pandas, numpy, clip, transformers, torch, skimage, sklearn, scipy, PIL, torchvision, matplotlib, random, pickle, tqdm, os
+| 5   | [Telecom company customer churn prediction]() | Based on personal data about some customers, information about their tariffs and contracts, develop a model for predicting customer churn | pandas, numpy, torch, sqlalchemy,  catboost, sklearn, matplotlib, seaborn, datetime, random, tqdm
 
-**Модуль 3**  
-3.3 Системы обработки больших данных. Предсказание стоимости жилья 
-3.4 Линейная алгебра. Защита персональных данных клиентов  
-3.5 Численные методы. Предсказание стоимости автомобилей  
-3.6 Продвинутый SQL.  
-3.7 Модели и алгоритмы в машинном обучении. Прогнозирование температуры звезды  
-3.8 Сборный проект 3. Разработка модели для оценки ДТП  
-
-**Модуль 4**  
-4.1 Временные ряды. Прогнозирование заказов такси  
-4.2 Машинное обучение для текстов. Проект для «Викишоп»  
-4.3 Компьютерное зрение. Определение возраста покупателей  
-4.4 Сборный проект 4. Поиск фото по описанию  
-  
-
-1. Выпускной проект. Telecom
 
 
 
