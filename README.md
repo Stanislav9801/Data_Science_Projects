@@ -1,6 +1,6 @@
-# yandex_practicum_projects
+# Data_Science_Projects
 
-В данном репозитории представлены самостоятельные проекты, выполненные в ходе учёбы на программе "Data Science plus" от Яндекс.Практикум.  
+This repository contains individual projects completed during the "Data Science plus Professional Training Course" program (INO CPE "Yandex EdTech").
 
 |     | Project                                    | Description | Libriaries |
 | --- | ------------------------------------------ | ----------- | ---------- |
