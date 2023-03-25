@@ -2,7 +2,7 @@
 
 <p align=center>
 This repository contains individual projects completed during the "Data Science plus" Professional Training Course program. @ INO CPE "Yandex EdTech" <br><br>
-    <a href="https://github.com/Stanislav9801/Data_Science_Projects/blob/master/yandex_ds_certificate_en.pdf"><b>Certificate of completion of the course (English version) 🎓</b> </a>
+    <a href="https://github.com/Stanislav9801/Data_Science_Projects/blob/master/yandex_ds_certificate_en.pdf"><b>State-recognized Diploma of professional retraining (English version) 🎓</b> </a>
 </p>
 <br>
 
